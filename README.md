@@ -3,8 +3,7 @@
   <img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" width="120" style="border-radius: 50%;" alt="profile"/>
   <h1>Hi, I'm <strong>Michael Soliman</strong> 👋</h1>
   <p>
-    Front-End React Developer who loves crafting elegant, responsive, and modern web interfaces.  
-    Passionate about performance, accessibility, and pixel-perfect design ✨
+   Front-End Developer crafting clean, fast, and user-friendly web experiences.
   </p>
 </div>
 
