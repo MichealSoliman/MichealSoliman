@@ -1,57 +1,98 @@
-<!-- 👋 Animated Banner -->
+<!-- 👋 Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:74EBD5,100:9FACE6&height=200&section=header&text=Hi%20I'm%20Michael%20Soliman%20👋&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h3 align="center">Front-End React Developer | Crafting smooth, interactive, and responsive web experiences ⚡</h3>
+<h3 align="center">Front-End React Developer | Building modern, responsive, and interactive web interfaces ⚡</h3>
 
 ---
 
-### 💻 My favorite tools and technologies
+## 🧠 My favorite tools and technologies
 
-<!-- أيقونات متناسقة مع أنيميشن -->
-<p align="center">
-  <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" width="55" style="margin:10px; animation: float 3s ease-in-out infinite;" /></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" width="55" style="margin:10px; animation: float 3.2s ease-in-out infinite;" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=redux" width="55" style="margin:10px; animation: float 3.4s ease-in-out infinite;" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=tailwind" width="55" style="margin:10px; animation: float 3.6s ease-in-out infinite;" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=ts" width="55" style="margin:10px; animation: float 3.8s ease-in-out infinite;" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=js" width="55" style="margin:10px; animation: float 4s ease-in-out infinite;" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=html" width="55" style="margin:10px; animation: float 4.2s ease-in-out infinite;" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=css" width="55" style="margin:10px; animation: float 4.4s ease-in-out infinite;" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=bootstrap" width="55" style="margin:10px; animation: float 4.6s ease-in-out infinite;" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=materialui" width="55" style="margin:10px; animation: float 4.8s ease-in-out infinite;" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=vite" width="55" style="margin:10px; animation: float 5s ease-in-out infinite;" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=webpack" width="55" style="margin:10px; animation: float 5.2s ease-in-out infinite;" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=git" width="55" style="margin:10px; animation: float 5.4s ease-in-out infinite;" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=github" width="55" style="margin:10px; animation: float 5.6s ease-in-out infinite;" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=figma" width="55" style="margin:10px; animation: float 5.8s ease-in-out infinite;" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=vscode" width="55" style="margin:10px; animation: float 6s ease-in-out infinite;" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=vercel" width="55" style="margin:10px; animation: float 6.2s ease-in-out infinite;" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=netlify" width="55" style="margin:10px; animation: float 6.4s ease-in-out infinite;" /></a>
-</p>
-
-<!-- تأثير أنيميشن للأيقونات -->
-<style>
-@keyframes float {
-  0% { transform: translateY(0px); }
-  50% { transform: translateY(-8px); }
-  100% { transform: translateY(0px); }
-}
-</style>
+<table align="center">
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=react" width="50"/><br>React
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="50"/><br>Next.js
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=redux" width="50"/><br>Redux
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="50"/><br>Tailwind
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=typescript" width="50"/><br>TypeScript
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=javascript" width="50"/><br>JavaScript
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=html" width="50"/><br>HTML5
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=css" width="50"/><br>CSS3
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="50"/><br>Bootstrap
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=materialui" width="50"/><br>Material UI
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=vite" width="50"/><br>Vite
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=webpack" width="50"/><br>Webpack
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=git" width="50"/><br>Git
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=github" width="50"/><br>GitHub
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=figma" width="50"/><br>Figma
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=vscode" width="50"/><br>VS Code
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=vercel" width="50"/><br>Vercel
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=netlify" width="50"/><br>Netlify
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=npm" width="50"/><br>NPM
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=yarn" width="50"/><br>Yarn
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=micheal-soliman&show_icons=true&theme=calm_pink" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=micheal-soliman&theme=calm_pink" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=micheal-soliman&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=micheal-soliman&theme=tokyonight" />
 </p>
 
 ---
 
 ### 🌐 Connect with me
+
 <p align="center">
   <a href="https://www.facebook.com/share/1N4HEWCGNt/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
