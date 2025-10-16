@@ -1,6 +1,6 @@
 <!-- 👨‍💻 Intro Section -->
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" width="120" style="border-radius: 50%;" alt="profile"/>
+ 
   <h1>Hi, I'm <strong>Michael Soliman</strong> 👋</h1>
   <p>
    Front-End Developer crafting clean, fast, and user-friendly web experiences.
