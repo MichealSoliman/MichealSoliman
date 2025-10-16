@@ -1,16 +1,43 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Micheal Soliman</h1>
+<h3 align="center">Front-End React Developer</h3>
 
-<!--
-**MichealSoliman/MichealSoliman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 💻 My favorite tools and technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <!-- Front-End Frameworks -->
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,webpack,vite" />
+  <br/>
+  
+  <!-- Styling -->
+  <img src="https://skillicons.dev/icons?i=html,css,scss,tailwind,bootstrap,materialui" />
+  <br/>
+  
+  <!-- Programming Languages -->
+  <img src="https://skillicons.dev/icons?i=js,ts" />
+  <br/>
+  
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,npm,yarn" />
+  <br/>
+  
+  <!-- Others -->
+  <img src="https://skillicons.dev/icons?i=vercel,netlify" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=micheal-soliman&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=micheal-soliman&theme=radical" />
+</p>
+
+---
+
+### 📫 Reach me
+- 📧 **micheal.soliman@gmail.com**  
+- 💼 [LinkedIn](#)  
+- 🌐 [Portfolio](#)
