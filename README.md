@@ -1,9 +1,12 @@
-<!-- 👋 Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:74EBD5,100:9FACE6&height=200&section=header&text=Hi%20I'm%20Michael%20Soliman%20👋&fontSize=35&fontColor=ffffff&animation=fadeIn" />
-</p>
-
-<h3 align="center">Front-End React Developer | Building modern, responsive, and interactive web interfaces ⚡</h3>
+<!-- 👨‍💻 Intro Section -->
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" width="120" style="border-radius: 50%;" alt="profile"/>
+  <h1>Hi, I'm <strong>Michael Soliman</strong> 👋</h1>
+  <p>
+    Front-End React Developer who loves crafting elegant, responsive, and modern web interfaces.  
+    Passionate about performance, accessibility, and pixel-perfect design ✨
+  </p>
+</div>
 
 ---
 
@@ -21,7 +24,7 @@
       <img src="https://skillicons.dev/icons?i=redux" width="50"/><br>Redux
     </td>
     <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="50"/><br>Tailwind
+      <img src="https://skillicons.dev/icons?i=tailwind" width="50"/><br>Tailwind CSS
     </td>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=typescript" width="50"/><br>TypeScript
@@ -44,54 +47,20 @@
       <img src="https://skillicons.dev/icons?i=materialui" width="50"/><br>Material UI
     </td>
   </tr>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=vite" width="50"/><br>Vite
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=webpack" width="50"/><br>Webpack
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=git" width="50"/><br>Git
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=github" width="50"/><br>GitHub
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=figma" width="50"/><br>Figma
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=vscode" width="50"/><br>VS Code
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=vercel" width="50"/><br>Vercel
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=netlify" width="50"/><br>Netlify
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=npm" width="50"/><br>NPM
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=yarn" width="50"/><br>Yarn
-    </td>
-  </tr>
 </table>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats (Auto Updated)
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=micheal-soliman&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=micheal-soliman&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=micheal-soliman&show_icons=true&theme=tokyonight" alt="Michael Soliman's GitHub stats"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=micheal-soliman&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 ---
 
-### 🌐 Connect with me
+## 🌐 Connect with me
 
 <p align="center">
   <a href="https://www.facebook.com/share/1N4HEWCGNt/" target="_blank">
@@ -103,10 +72,4 @@
   <a href="https://portfolio-dusky-two-0ts2c83ebf.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9FACE6,100:74EBD5&height=120&section=footer" />
 </p>
