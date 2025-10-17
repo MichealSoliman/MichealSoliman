@@ -9,7 +9,7 @@
 
 ---
 
- My favorite tools and technologies
+## My favorite tools and technologies
 
 <table align="center">
   <tr>
