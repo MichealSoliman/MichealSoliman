@@ -35,9 +35,6 @@
       <img src="https://skillicons.dev/icons?i=javascript" width="50"/><br>JavaScript
     </td>
     <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=javascript" width="50"/><br>JavaScript
-    </td>
-    <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=html" width="50"/><br>HTML5
     </td>
     <td align="center" width="100">
