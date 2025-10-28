@@ -28,11 +28,12 @@
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=typescript" width="50"/><br>TypeScript
     </td>
+   
+  </tr>
+  <tr>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=javascript" width="50"/><br>JavaScript
     </td>
-  </tr>
-  <tr>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=javascript" width="50"/><br>JavaScript
     </td>
