@@ -28,9 +28,7 @@
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=typescript" width="50"/><br>TypeScript
     </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=typescript" width="50"/><br>TypeScript
-    </td>
+  
    
   </tr>
   <tr>
