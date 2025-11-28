@@ -5,11 +5,13 @@
   <p>
    Front-End Developer crafting clean, fast, and user-friendly web experiences.
   </p>
-</div
+</div>
+
 ---
 
-## My favorite tools and technologies
+## 🛠️ Tech Stack
 
+### Frontend Development
 <table align="center">
   <tr>
     <td align="center" width="100">
@@ -27,8 +29,6 @@
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=typescript" width="50"/><br>TypeScript
     </td>
-  
-   
   </tr>
   <tr>
     <td align="center" width="100">
@@ -47,6 +47,10 @@
       <img src="https://skillicons.dev/icons?i=materialui" width="50"/><br>Material UI
     </td>
   </tr>
+</table>
+
+### Tools & Platforms
+<table align="center">
   <tr>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=vite" width="50"/><br>Vite
@@ -83,10 +87,9 @@
   </tr>
 </table>
 
+---
 
-
-
-## 🌐 Connect with me
+## 📫 Let's Connect
 
 <p align="center">
   <a href="https://www.facebook.com/share/1N4HEWCGNt/" target="_blank">
@@ -96,6 +99,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://portfolio-dusky-two-0ts2c83ebf.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
