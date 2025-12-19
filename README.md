@@ -6,10 +6,7 @@
    Front-End Developer crafting clean, fast, and user-friendly web experiences.
   </p>
 </div>
-
 ---
-
-
 ## 🛠️ Tech Stack
 ### Frontend Development
 <table align="center">
