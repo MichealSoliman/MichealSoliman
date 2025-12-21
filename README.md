@@ -7,7 +7,7 @@
   </p>
 </div>
 ---
-## 🛠️ Tech Stack
+
 
 <table align="center">
   <tr>
