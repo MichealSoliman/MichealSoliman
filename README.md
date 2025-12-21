@@ -8,7 +8,7 @@
 </div>
 ---
 ## 🛠️ Tech Stack
-### Frontend Development
+
 <table align="center">
   <tr>
     <td align="center" width="100">
