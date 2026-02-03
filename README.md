@@ -6,9 +6,6 @@
    Front-End Developer crafting clean, fast, and user-friendly web experiences.
   </p>
 </div>
-
-
-
 <table align="center">
   <tr>
     <td align="center" width="100">
