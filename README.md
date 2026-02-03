@@ -72,12 +72,12 @@
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=netlify" width="50"/><br>Netlify
     </td>
-    <!-- <td align="center" width="100">
+    <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=npm" width="50"/><br>NPM
     </td>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=yarn" width="50"/><br>Yarn
-    </td> -->
+    </td>
   </tr>
 </table>
 
