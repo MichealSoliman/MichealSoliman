@@ -1,6 +1,5 @@
 <!-- 👨‍💻 Intro Section -->
 <div align="center">
- 
   <h1>Hi, I'm <strong>Michael Soliman</strong> 👋</h1>
   <p>
    Front-End Developer crafting clean, fast, and user-friendly web experiences.
@@ -80,9 +79,7 @@
     </td>
   </tr>
 </table>
-
 ---
-
 ## 📫 Let's Connect
 <p align="center">
   <a href="https://www.facebook.com/share/1N4HEWCGNt/" target="_blank">
